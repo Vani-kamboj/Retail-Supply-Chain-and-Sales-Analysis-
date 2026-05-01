@@ -9,7 +9,7 @@ through dynamic filters and visual storytelling.
 - Power BI
 
 ## Dashboard Highlights
-![Architecture](PowerBI_dashboard.pdf)
+[📊 View Power BI Dashboard](PowerBI_dashboard.pdf)
 
 ### KPI Overview
 Tracks current year vs previous year performance for:
